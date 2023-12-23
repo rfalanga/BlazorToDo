@@ -19,3 +19,6 @@ For some reason I don't understand, the Microsoft Learn course had two pages for
 Since at this point I was more interested in learning Blazor Server apps than the pecularities of Visual Studio Code with Blazor, I decided to follow
 this [unit 3](https://learn.microsoft.com/en-us/training/modules/build-blazor-webassembly-visual-studio-code/3-exercise-configure-enviromnent?pivots=vstudio) page instead.
 I did *not* use the link at the beginning of this README!
+
+### Additional learning
+The [summer page](https://learn.microsoft.com/en-us/training/modules/build-blazor-webassembly-visual-studio-code/8-summary) has links to additional Microsoft Learn courses on Blazor.
