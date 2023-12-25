@@ -22,3 +22,6 @@ I did *not* use the link at the beginning of this README!
 
 ### Additional learning
 The [summer page](https://learn.microsoft.com/en-us/training/modules/build-blazor-webassembly-visual-studio-code/8-summary) has links to additional Microsoft Learn courses on Blazor.
+
+## There's a change in the project template creationg for .NET 8!
+I've just discovvered (12/25/2023) that Microsoft decided to remove the Blazor Server App template when creating a new Blazor project. They're consolidating project types. It is documented in the What's New in ASP.NET Core 8.0, the [New Blazor Web App template](https://learn.microsoft.com/en-us/aspnet/core/release-notes/aspnetcore-8.0?view=aspnetcore-8.0&wt.mc_id=msftsource_issue54WN3_email_gdc%3Focid%3Deml_pg420598_gdc_comm_mw&mkt_tok=MTU3LUdRRS0zODIAAAGQKEQEH0PIQ9UAGCfYCGAQpGGvRBF9R-9oKtD7zGVDQU-esQtnEcDT1r_FuAgsXwuOaoqKABc4QieBrujCqN1SYZNgZQZTWHIIfijfE6mnB0sB5xdhEbcZWzw#new-blazor-web-app-template) section. So, I could have started this using .NET 8 project template. Oh well.
